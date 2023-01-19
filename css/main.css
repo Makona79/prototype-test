@@ -369,10 +369,11 @@ a {
   margin: 14px 0 0 0;
   font-size: 13px;
 }
-.card__subcard-text a {
+.card__subcard-text span {
   font-weight: 700;
   color: #1698d9;
   border-bottom: 1px dashed #1698d9;
+  cursor: pointer;
 }
 .card__subcard-text-def.selected {
   display: none;
